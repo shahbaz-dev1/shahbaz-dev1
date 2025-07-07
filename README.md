@@ -3,6 +3,7 @@
 🚀 Full Stack Developer | Laravel Expert | Vue & React Enthusiast | AI Explorer | Freelancer from Lahore, Pakistan
 
 ---
+![previewimage](previewimage.png)
 
 ## 🧑‍💻 About Me
 
